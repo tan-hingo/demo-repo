@@ -1,3 +1,3 @@
 # Demo
 
-Some description. Testing Git. Boo yah.
+Some description. Testing Git. Boo yah!
